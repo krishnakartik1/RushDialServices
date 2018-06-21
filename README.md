@@ -7,6 +7,6 @@
 
 ## Execute
 
-1. Add the [main(2).cpp](main (2).cpp) to a project using any C++ IDE. This project originally ran on DEV-CPP and Code Blocks.
+1. Add the [main(2).cpp](https://github.com/krishnakartik1/RushDialServices/blob/master/main%20(2).cpp) to a project using any C++ IDE. This project originally ran on DEV-CPP and Code Blocks.
 2. Configure the use of graphics in the project.
 3. The [exe](bin/Debug/project12.exe) file of this project is given in the repository
